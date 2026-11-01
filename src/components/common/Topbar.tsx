@@ -155,7 +155,7 @@ export const Topbar: React.FC = () => {
                   whiteSpace: 'nowrap',
                 }}
               >
-                Healthcare Operations
+                Healthcare Camp
               </Typography>
               <Chip
                 label={subdomain.toUpperCase()}
